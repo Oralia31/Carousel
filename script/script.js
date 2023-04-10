@@ -1,13 +1,3 @@
-/*var swiper = new Swiper('.carousel', {
-    navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-    },
-    pagination: {
-        el: '.swiper-pagination',
-    },
-})*/
-
 const swiper = new Swiper('.swiper', {
     // Optional parameters
     direction: 'horizontal',
